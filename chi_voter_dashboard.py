@@ -52,7 +52,7 @@ column_dict = {'African American Race %': 'African Am',
 				 'Workers Traveling by Public Transportation %': 'Workers _2'}
 
 # read in our main dataFrame
-df = gpd.read_file('/Users/adouglas/Google Drive/Metis/projects/passion_project/dash_df.shp')
+df = gpd.read_file('shapefiles/dash_df.shp')
 
 # get our feature list for the dropdowns
 available_features = list(column_dict.keys())
