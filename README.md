@@ -1,5 +1,7 @@
 # Chicago Voter Turnout Dashboard
 
+![Dashboard Screencap](screencap_dashboard.png?raw=true "Screencap of the dashboard")
+
 This dashboard allows you to view voter turnout in Chicago during the 2016 general election by voting precinct.
 
 Other demographic and precinct-level variables are included for comparison, which should give the viewer a better understanding of demographic stucture of Chicago.
